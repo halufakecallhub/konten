@@ -1,1 +1,179 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://pinjolandalankilat.blogspot.com/",
+      "email_feedback_and_report": "",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "0",
+      "ad_manager_interstitial_unit_id": "0",
+      "ad_manager_native_unit_id": "0",
+      "ad_manager_app_open_unit_id": "0",
+      "fan_banner_unit_id": "0",
+      "fan_interstitial_unit_id": "0",
+      "fan_native_unit_id": "0",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "0",
+      "unity_interstitial_placement_id": "0",
+      "applovin_banner_unit_id": "d31908f1c0fbb96c",
+      "applovin_interstitial_unit_id": "acc6c5f52857ddbe",
+      "applovin_native_manual_unit_id": "b143ad102d7200d4",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "0",
+      "ironsource_interstitial_id": "0",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 2,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+    "posts": [
+   {
+      "id": 1,
+      "category": "Tutorial",
+      "title": "Bahaya Pinjaman Online: Perspektif Agama dan Akibatnya",
+      "image": "https://radarutara.disway.id/upload/d9a1a004c3201e05cc15e4be455121e0.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/1.html"
+    } ,{
+      "id": 2,
+      "category": "Tutorial",
+      "title": "Menghindari Pinjaman Online: Mewaspadai Perangkap Riba Digital",
+      "image": "https://images.bisnis.com/posts/2023/02/12/1627109/pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/2.html"
+    } ,
+    {
+      "id": 3,
+      "category": "Tutorial",
+      "title": "Mengenal Hukum Pinjaman Online dalam Islam: Permasalahan dan Solusi",
+      "image": "https://cloud.jpnn.com/photo/arsip/watermark/2021/05/19/ilustrasi-pinjaman-online-ilustrasi-rarajpnncom-25.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/3.html"
+    } ,{
+      "id": 4,
+      "category": "Tutorial",
+      "title": "Pinjaman Online: Mengapa Harus Berhati-hati?",
+      "image": "https://theprakarsa.org/wp-content/uploads/2020/03/2-Infographic-Int-Womens-Day-1024x1024.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/4.html"
+    } ,{
+      "id": 5,
+      "category": "Tutorial",
+      "title": "Larangan Pinjaman Online dalam Islam: Mengapa Anda Harus Mengetahuinya",
+      "image": "https://harianriau.co/assets/berita/original/38393446803-1.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/5.html"
+    } ,{
+      "id": 6,
+      "category": "Tutorial",
+      "title": "Pinjaman Online: Dampak Negatif Terhadap Masyarakat dan Akidah",
+      "image": "https://pict.sindonews.net/dyn/480/pena/news/2023/03/12/178/1045025/upaya-menjauhkan-pinjol-bodong-dari-pelaku-umkm-ppt.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/6.html"
+    } ,{
+      "id": 7,
+      "category": "Tutorial",
+      "title": "Perangkap Pinjaman Online: Menghadapi Godaan Duniawi",
+      "image": "https://eksis.id/wp-content/uploads/2021/10/pinjol-eksis.id_-768x480.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/7.html"
+    } ,{
+      "id": 8,
+      "category": "Tutorial",
+      "title": "Pinjaman Online: Mengurai Permasalahan Hukum dan Moralitas",
+      "image": "https://www.nganjukkab.go.id/home/upload_file/news_image/41005c58dd33851a09b92482ba77751e.jpeg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/8.html"
+    } ,{
+      "id": 9,
+      "category": "Tutorial",
+      "title": "Merangkai Keuangan Islami: Alternatif Terhadap Pinjaman Online",
+      "image": "https://www.um-surabaya.ac.id/assets/img/news_img/946b4d03-2074-11ed-bc61-000c29cc32a6_f88fc20c-19cd-4b9f-8d09-a9bd8043d1ca_169.jpeg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/9.html"
+    } ,{
+      "id": 10,
+      "category": "Tutorial",
+      "title": "Pinjaman Online: Menggali Akar Masalah dan Menemukan Solusi Islami",
+      "image": "https://t-2.tstatic.net/jogja/foto/bank/images/Daftar-102-Pinjol-Legal-per-Januari-2023.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/10.html"
+    } ,{
+      "id": 11,
+      "category": "Tutorial",
+      "title": "Mengelola Keuangan dengan Bijak: Alternatif Terhadap Pinjaman Online",
+      "image": "https://www.qoala.app/id/blog/wp-content/uploads/2020/11/Pinjol-Dari-Risiko-Daftar-hingga-Cara-Memilih-yang-Legal.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/11.html"
+    } ,{
+      "id": 12,
+      "category": "Tutorial",
+      "title": "Pinjaman Online: Riba Digital yang Perlu Dihindari",
+      "image": "https://maucash.id/wp-content/uploads/2020/01/pinjaman-online-ilegal-800x400.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/12.html"
+    } ,{
+      "id": 13,
+      "category": "Tutorial",
+      "title": "Menjaga Integritas Keuangan: Menolak Pinjaman Online Haram",
+      "image": "https://s.kaskus.id/images/2021/10/09/1814982_20211009060115.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/13.html"
+    } ,{
+      "id": 14,
+      "category": "Tutorial",
+      "title": "Mengatasi Kecanduan Pinjaman Online: Menuju Kesehatan Keuangan Islami",
+      "image": "https://www.qoala.app/id/blog/wp-content/uploads/2020/11/Pinjol-Dari-Risiko-Daftar-hingga-Cara-Memilih-yang-Legal.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/14.html"
+    } ,{
+      "id": 15,
+      "category": "Tutorial",
+      "title": "Pinjaman Online dalam Islam: Mengembalikan Kekuatan Keuangan dan Kebahagiaan",
+      "image": "https://pict.sindonews.net/dyn/620/pena/news/2021/06/30/178/470726/pantesan-susah-diberantas-44-pinjol-ilegal-tak-diketahui-lokasi-servernya-jlk.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/halufakecallhub/html/main/15.html"
+    } 
+
+  ]
+}
 
