@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": 1,
-      "redirect_url": "",
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.prankcallmaster.jamorant",
       "privacy_policy_url": "https://pinjolandalankilat.blogspot.com/",
       "email_feedback_and_report": "",
       "webview_cache": true,
@@ -33,9 +33,9 @@
       "ad_manager_interstitial_unit_id": "0",
       "ad_manager_native_unit_id": "0",
       "ad_manager_app_open_unit_id": "0",
-      "fan_banner_unit_id": "0",
-      "fan_interstitial_unit_id": "0",
-      "fan_native_unit_id": "0",
+      "fan_banner_unit_id": "667057161932611_667057221932605",
+      "fan_interstitial_unit_id": "667057161932611_667057218599272",
+      "fan_native_unit_id": "667057161932611_667057225265938",
       "startapp_app_id": "0",
       "unity_game_id": "0",
       "unity_banner_placement_id": "0",
